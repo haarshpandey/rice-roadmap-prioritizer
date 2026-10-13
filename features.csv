@@ -1,0 +1,8 @@
+feature,reach,impact,confidence,effort
+SSO for enterprise deals,400,3,80,2
+In-app onboarding checklist,5000,1,70,1
+AI triage agent for support,2000,3,50,4
+Dark mode,8000,0.5,90,1.5
+Usage-based billing,1200,2,60,3
+Mobile offline mode,3000,1,40,5
+Admin audit log export,600,2,85,1
